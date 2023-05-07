@@ -1,0 +1,164 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.su/hGkS" group-title="NACIONALES",NPY
+http://clubtv.link/0523may/top2197/lista1.php?c=a024
+
+#EXTINF:-1 tvg-logo="https://goo.su/DyPpU9" group-title="NACIONALES",TELEFUTURO
+http://clubtv.link/0523may/top2197/lista1.php?c=a03e
+
+#EXTINF:-1 tvg-logo="https://goo.su/UEa2" group-title="NACIONALES",PARAVISION
+http://clubtv.link/0523may/top2197/lista1.php?c=a021
+
+#EXTINF:-1 tvg-logo="https://goo.su/Cfvx9Z" group-title="NACIONALES",UNICANAL
+https://streaming.unicanal.com.py/live/unicanal_mid.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.su/mrPK" group-title="NACIONALES",SNT
+http://clubtv.link/0523may/top2197/lista1.php?c=a03d
+
+#EXTINF:-1 tvg-logo="https://goo.su/aSnMpJG" group-title="NACIONALES",LA TELE
+http://clubtv.link/0523may/top2197/lista1.php?c=a00j
+
+#EXTINF:-1 tvg-logo="https://goo.su/F21H5ST" group-title="NACIONALES",C9N
+http://clubtv.link/0523may/top2197/lista1.php?c=a022
+
+#EXTINF:-1 tvg-logo="https://goo.su/FVzvV" group-title="NACIONALES",TRECE
+http://clubtv.link/0523may/top2197/lista1.php?c=a01j
+
+#EXTINF:-1 tvg-logo="https://goo.su/f9zwtE" group-title="NACIONALES",PARAGUAY TV
+http://clubtv.link/0523may/top2197/lista1.php?c=a01o
+
+
+//DEPORTES
+
+#EXTINF:-1 tvg-logo="https://goo.su/hgzc" group-title="DEPORTES",FOX SPORTS 1
+http://clubtv.link/0523may/top2197/lista1.php?c=a01h
+
+#EXTINF:-1 tvg-logo="https://goo.su/zPwNKN" group-title="DEPORTES",FOX SPORTS 2
+http://clubtv.link/0523may/top2197/lista1.php?c=a013
+
+#EXTINF:-1 tvg-logo="https://goo.su/fGbIdc" group-title="DEPORTES",FOX SPORTS 3
+http://clubtv.link/0523may/top2197/lista1.php?c=a014
+
+#EXTINF:-1 tvg-logo="https://goo.su/Spoq2" group-title="DEPORTES",FOX SPORTS 1MX
+http://clubtv.link/0523may/top2197/lista.php?c=28008
+
+#EXTINF:-1 tvg-logo="https://goo.su/GYnPq" group-title="DEPORTES",FOX SPORTS 2MX
+http://clubtv.link/0523may/top2197/lista.php?c=28009
+
+#EXTINF:-1 tvg-logo="https://goo.su/PmZfIUY" group-title="DEPORTES",FOX SPORTS 3MX
+http://clubtv.link/0523may/top2197/lista.php?c=28010
+
+#EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN
+http://clubtv.link/0523may/top2197/lista1.php?c=a00u
+
+#EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",ESPN 2
+http://clubtv.link/0523may/top2197/lista1.php?c=a02u
+
+#EXTINF:-1 tvg-logo="https://goo.su/k8z7hj" group-title="DEPORTES",ESPN 3
+http://clubtv.link/0523may/top2197/lista1.php?c=a00h
+
+#EXTINF:-1 tvg-logo="https://goo.su/ycJVle" group-title="DEPORTES",ESPN 4
+http://clubtv.link/0523may/top2197/lista2.php?c=a0gc&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN CO
+http://clubtv.link/0523may/top2197/lista1.php?c=a023
+
+#EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",ESPN 2CO
+http://clubtv.link/0523may/top2197/lista1.php?c=a00t
+
+#EXTINF:-1 tvg-logo="https://goo.su/9rM8IK" group-title="DEPORTES",ESPN MX
+http://clubtv.link/0523may/top2197/lista.php?c=28000
+
+#EXTINF:-1 tvg-logo="https://goo.su/dDkB" group-title="DEPORTES",Espn 2MX
+http://clubtv.link/0523may/top2197/lista.php?c=27996
+
+#EXTINF:-1 tvg-logo="https://goo.su/k8z7hj" group-title="DEPORTES",Espn 3MX
+http://clubtv.link/0523may/top2197/lista.php?c=27998
+
+
+//INFANTIL
+#EXTINF:-1 tvg-logo="https://goo.su/IGiW4Rv" group-title="INFANTIL",Discovery Kids
+http://clubtv.link/0523may/top2197/lista1.php?c=a02b
+
+#EXTINF:-1 tvg-logo="https://goo.su/HQGqxC" group-title="INFANTIL",Disney Jr.
+http://clubtv.link/0523may/top2197/lista1.php?c=a02s
+
+#EXTINF:-1 tvg-logo="https://goo.su/HQGqxC" group-title="INFANTIL",Disney Jr. MX
+http://clubtv.link/0523may/top2197/lista.php?c=27992
+
+#EXTINF:-1 tvg-logo="https://goo.su/XfGT9" group-title="INFANTIL",Disney Channel
+http://clubtv.link/0523may/top2197/lista1.php?c=a00n
+
+#EXTINF:-1 tvg-logo="https://goo.su/DyPO57l" group-title="INFANTIL",Nickelodeon
+http://clubtv.link/0523may/top2197/lista1.php?c=a02w
+
+#EXTINF:-1 tvg-logo="https://goo.su/PFm6" group-title="INFANTIL",Nick Jr
+http://clubtv.link/0523may/top2197/lista1.php?c=a00e
+
+#EXTINF:-1 tvg-logo="https://goo.su/B4m83" group-title="INFANTIL",Cartoon Network
+http://clubtv.link/0523may/top2197/lista3.php?c=a03a
+
+
+//PELICULAS
+
+#EXTINF:-1 tvg-logo="https://goo.su/OgFhZ2" group-title="PELICULAS",Star Channel
+http://clubtv.link/0523may/top2197/lista1.php?c=a037
+
+#EXTINF:-1 tvg-logo="https://goo.su/j6JZ" group-title="PELICULAS",HBO
+http://clubtv.link/0523may/top2197/lista1.php?c=a001
+
+#EXTINF:-1 tvg-logo="https://goo.su/HVO7Z" group-title="PELICULAS",HBO 2
+http://clubtv.link/0523may/top2197/lista1.php?c=a02o
+
+#EXTINF:-1 tvg-logo="https://goo.su/tq0lfa" group-title="PELICULAS",HBO Family
+http://clubtv.link/0523may/top2197/lista1.php?c=a02r
+
+#EXTINF:-1 tvg-logo="https://goo.su/NF4yeqU" group-title="PELICULAS",HBO Plus
+http://clubtv.link/0523may/top2197/lista3.php?c=a02p
+
+#EXTINF:-1 tvg-logo="https://goo.su/6bolqm" group-title="PELICULAS",Universal
+http://clubtv.link/0523may/top2197/lista3.php?c=a031
+
+#EXTINF:-1 tvg-logo="https://goo.su/sqBDu" group-title="PELICULAS",Space
+http://clubtv.link/0523may/top2197/lista3.php?c=a005
+
+#EXTINF:-1 tvg-logo="https://goo.su/6RXex" group-title="PELICULAS",FX
+http://clubtv.link/0523may/top2197/lista3.php?c=a006
+
+#EXTINF:-1 tvg-logo="https://goo.su/tqy73y" group-title="PELICULAS",Cinecanal
+http://clubtv.link/0523may/top2197/lista3.php?c=a030
+
+#EXTINF:-1 tvg-logo="https://goo.su/lwdY" group-title="PELICULAS",Cinemax
+http://clubtv.link/0523may/top2197/lista3.php?c=a002
+
+#EXTINF:-1 tvg-logo="https://goo.su/ye8eYA" group-title="PELICULAS",Paramount
+http://clubtv.link/0523may/top2197/lista.php?c=28030
+
+
+
+//NOVELAS
+
+#EXTINF:-1 tvg-logo="https://goo.su/IAsu" group-title="NOVELAS",RCN Novelas
+http://clubtv.link/0523may/top2197/lista1.php?c=a016
+
+#EXTINF:-1 tvg-logo="https://goo.su/c0VsgpL" group-title="NOVELAS",Telemundo
+http://clubtv.link/0523may/top2197/lista1.php?c=a015
+
+
+//Documuentales
+
+#EXTINF:-1 tvg-logo="https://goo.su/9euMW" group-title="DOCUMENTALES",History
+http://clubtv.link/0523may/top2197/lista1.php?c=a02z
+
+#EXTINF:-1 tvg-logo="https://goo.su/MhwR" group-title="DOCUMENTALES",Nat Geo
+http://clubtv.link/0523may/top2197/lista1.php?c=a02y
+
+#EXTINF:-1 tvg-logo="https://goo.su/zkGg" group-title="DOCUMENTALES",Discovery Channel
+http://clubtv.link/0523may/top2197/lista1.php?c=a00o
+
+#EXTINF:-1 tvg-logo="https://goo.su/vkSP" group-title="DOCUMENTALES",Discovery H&H
+http://clubtv.link/0523may/top2197/lista1.php?c=a01c
+
+#EXTINF:-1 tvg-logo="https://goo.su/6ySGa" group-title="DOCUMENTALES",Animal Planet
+http://clubtv.link/0523may/top2197/lista3.php?c=a00p
+
